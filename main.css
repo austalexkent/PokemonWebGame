@@ -1,0 +1,50 @@
+.container {
+    width: 500px;
+    height: 350px;
+    background-color: black;
+    color: lime;
+}
+img {
+    width: 175px;
+    height: 175px;
+}
+#pokemon-info{
+    width: 265px;
+    height: 350px;
+    float: left;
+}
+#pokemon-stats {
+    width: 230px;
+    height: 350px;
+    float: right;
+    border-left: 2px;
+    border: 2px lime;
+}
+button {
+    margin-left: 150px;
+    width: 220px;
+    margin-top: 25px;
+    padding: 10px;
+    background-color: dimgray;
+    color: white;
+    border: none;
+}
+#pokemon-info {
+    text-align: center;
+}
+h2 {
+    margin-left: 60px;
+    margin-top: 75px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin: 25px;
+    margin-left: 60px;
+}
+.lightmode {
+    background-color:#fbe9d0;
+    color: black;
+}
